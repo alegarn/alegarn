@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alegarn</h1>
 <h3 align="center">A developer from France</h3>
 
-- 🔭 I’m currently working on **The Hacking Project**
+- 🔭 I’m currently working on **https://scoreit-thp.herokuapp.com/**
 
 - 🌱 I’m currently learning **Ruby / HTML / CSS and Js**
 
