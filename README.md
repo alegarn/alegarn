@@ -16,6 +16,13 @@
    
 </p>
 
+<p align="left">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegarn)](https://github.com/alegarn/github-readme-stats)
+</p>
+<p align="left">
+[![Alegarn’s github stats](https://github-readme-stats.vercel.app/api?username=alegarn)](https://github.com/alegarn)
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Data</h4>
@@ -24,8 +31,6 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
 </p>
-
-
 
 <h4 align="left">Web frontend</h4>
 <p align="left">
