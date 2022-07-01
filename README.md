@@ -16,9 +16,6 @@
    
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegarn)](https://github.com/alegarn/github-readme-stats)
-[![Alegarn’s github stats](https://github-readme-stats.vercel.app/api?username=alegarn)](https://github.com/alegarn)
-
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Data</h4>
@@ -58,3 +55,8 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 </p>
 
+### Stats
+  
+[![Alegarn’s github stats](https://github-readme-stats.vercel.app/api?username=alegarn)](https://github.com/alegarn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegarn)](https://github.com/alegarn/github-readme-stats)
