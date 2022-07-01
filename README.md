@@ -16,12 +16,8 @@
    
 </p>
 
-<p align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegarn)](https://github.com/alegarn/github-readme-stats)
-</p>
-<p align="left">
 [![Alegarn’s github stats](https://github-readme-stats.vercel.app/api?username=alegarn)](https://github.com/alegarn)
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
