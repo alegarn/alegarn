@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alegarn</h1>
 <h3 align="center">A RoR developer / Data analyst from France</h3>
 
-- 🔭 I’m currently working on [Dashborad de la Ligue 1](https://public.tableau.com/app/profile/fanny.diedrichs/viz/DashboardLigue1Final/DashboardLigue1Saison?publish=yes)
+- 🔭 I’m currently working on [new_training_sql](https://github.com/alegarn/new_training_sql)
 
 - Former project: **https://scoreit-thp.herokuapp.com/**
 
