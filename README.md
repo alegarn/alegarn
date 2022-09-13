@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alegarn</h1>
 <h3 align="center">A RoR developer / Data analyst from France</h3>
 
-- 🔭 I’m currently working on [language_data](https://github.com/alegarn/language_data)
+- 🔭 I’m currently working on [language_data](https://github.com/alegarn/language_data): https://sing-those-words.herokuapp.com/
 
 - Former project: **https://scoreit-thp.herokuapp.com/**
 
