@@ -5,7 +5,7 @@
 
 - Former project: **https://scoreit-thp.herokuapp.com/**
 
-- 🌱 I’m currently learning **More Rails**
+- 🌱 I’m currently learning **Data Analytic**
 
 - 📝 I "regularly" write articles on [https://medium.com/@alexg78](https://medium.com/@alexg78)
 
