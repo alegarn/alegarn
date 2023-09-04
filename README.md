@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm alegarn</h1>
 <h3 align="center">A RoR developer / Data analyst from France</h3>
 
-- 🔭 I’m currently working on [language_data](https://github.com/alegarn/language_data): https://sing-those-words.herokuapp.com/
+- 🔭 I’m currently working on [WoIstWaldoProject](https://github.com/alegarn/WoIstWaldoProject)
 
 - Former project: **https://scoreit-thp.herokuapp.com/**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I "regularly" write articles on [https://medium.com/@alexg78](https://medium.com/@alexg78)
 
