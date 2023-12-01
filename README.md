@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WoIstWaldoProject](https://github.com/alegarn/WoIstWaldoProject)
 
-- Former project: **[(https://tables-ai.onrender.com)](https://tables-ai.onrender.com)**
+- Former project: **[https://tables-ai.onrender.com](https://tables-ai.onrender.com)**
 
 - 🌱 I’m currently learning **React Native**
 
