@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alegarn</h1>
 <h3 align="center">A RoR / React / NextJs developer from France</h3>
 
-- 🔭 I’m currently working on [WoIstWaldoProject](https://github.com/alegarn/WoIstWaldoProject)
+- 🔭 I’m currently working on [WoIstWaldoProject](https://github.com/alegarn/WoIstWaldoProject) and ConvsrsApp (No-code)
 
 - Former project: **[https://tables-ai.onrender.com](https://tables-ai.onrender.com)**
 
