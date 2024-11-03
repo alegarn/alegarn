@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [WoIstWaldoProject](https://github.com/alegarn/WoIstWaldoProject) and [ConvsrsApp](https://github.com/alegarn/Convsrs) (No-code)
 
-- Former project: **[https://tables-ai.onrender.com](https://tables-ai.onrender.com)**
+- Former project: **[https://tables-ai.onrender.com](https://tables-ai.onrender.com)** (turned offline)
 
-- 🌱 I’m currently learning **Flutterflow**
+- 🌱 I’m currently learning **Flutterflow** and **Dart**
 
 - 📝 I "regularly" write articles on [https://medium.com/@alexg78](https://medium.com/@alexg78)
 
