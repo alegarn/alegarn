@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WoIstWaldoProject](https://github.com/alegarn/WoIstWaldoProject) and [ConvsrsApp](https://github.com/alegarn/Convsrs) (No-code)
 
-- Former project: **[https://tables-ai.onrender.com](https://tables-ai.onrender.com)** (turned offline)
+- Former project: **[https://tables-ai.onrender.com](https://tables-ai.onrender.com)**
 
 - 🌱 I’m currently learning **Flutterflow** and **Dart**
 
