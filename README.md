@@ -66,6 +66,6 @@
 
 ### Stats
   
-[![Alegarn’s github stats](https://github-readme-stats.vercel.app/api?username=alegarn)](https://github.com/alegarn)
+[![Alegarn’s github stats](https://github-readme-stats.vercel.app/api?username=alegarn)](https://github-readme-stats.vercel.app/api?username=alegarn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegarn)](https://github.com/alegarn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegarn)](https://github-readme-stats.vercel.app/api/top-langs/?username=alegarn)
