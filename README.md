@@ -68,7 +68,4 @@
   
 [![Alegarn’s github stats](https://github-readme-stats.vercel.app/api?username=alegarn)](https://github.com/alegarn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegarn)](https://github.com/alegarn/github-readme-stats)
-
-Days i code:
-[![Day code](https://codeium.com/profile/rabidly-nonchalant-bluejay-92456)](https://codeium.com/profile/rabidly-nonchalant-bluejay-92456)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegarn)](https://github.com/alegarn)
