@@ -5,7 +5,7 @@
 
 - Former project: **[https://tables-ai.onrender.com](https://tables-ai.onrender.com)**
 
-- GitHub Page: **[Passive Design Helper](https://alegarn.github.io/passive-design-helper/)**
+- GitHub Page: **[Passive Design Helper](https://alegarn.github.io/passive-design-helper/)** (Choose the right strategies to design your passive house)
 
 - 🌱 I’m currently learning **Svelte**
 
