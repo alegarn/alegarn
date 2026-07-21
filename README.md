@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WoIstWaldoProject](https://github.com/alegarn/WoIstWaldoProject) and [Convsrs](https://github.com/alegarn/Convsrs-rn)
 
-- Online project: **[Quick KYB](https://auto-kyb-production.up.railway.app/)** (Quick user onboarding)
+- Online projects: **[Quick KYB](https://auto-kyb-production.up.railway.app/)** (Quick user onboarding) and **[RFP-Intelligence]( https://rfp-intelligence-production-8f21.up.railway.app/)** (AI assisted RFP document analysis and decision making)
 
 - GitHub Page: **[Passive Design Helper](https://alegarn.github.io/passive-design-helper/)** (Choose the right strategies to design your passive house)
 
